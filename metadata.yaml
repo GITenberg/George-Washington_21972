@@ -1,0 +1,29 @@
+_repo: George-Washington_21972
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21972-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Courtenay, Calista McCabe
+    gutenberg_agent_id: '25000'
+    url: http://www.gutenberg.org/2009/agents/25000
+description: ''
+gutenberg_issued: '2007-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21972'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Presidents -- United States -- Biography'
+- !lcsh 'United States -- Politics and government -- 1775-1783'
+- !lcsh 'Washington, George, 1732-1799'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Campaigns'
+- !lcc 'E300'
+- !lcsh 'United States -- Politics and government -- 1783-1809'
+- !lcsh 'Generals -- United States -- Biography'
+title: George Washington
+url: http://www.gutenberg.org/ebooks/21972
